@@ -17,3 +17,8 @@ To get started, first install ``slither.io-v0``:
     cd Slither.io-AI/
     pip install -e gym-slitherio				
 ~~~~~~~~~~~~~~~~~~
+Now install the latest version of [docker](https://docs.docker.com/install/)
+~~~~~~~~~~~~~~~~~~
+docker build -t slitherio .
+docker run --name=slither -v $pwd:/home/apps -p 5005:5005 -p 5900:5900 -it --rm --user apps --privileged slitherio bash -l
+~~~~~~~~~~~~~~~~~~
