@@ -1,6 +1,6 @@
 **This repository has been deprecated in favor of the Retro (https://github.com/openai/retro) library. See our Retro Contest (https://blog.openai.com/retro-contest) blog post for detalis.**
 
-universe
+#universe
 ***************
 
 `slither.io-v0 <https://openai.com/blog/universe/>`_ is a software
