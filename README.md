@@ -1,6 +1,6 @@
 # slither.io-v0
 
-`slither.io-v0` is an openAI [gym](https://gym.openai.com/) enviroment for testing and evaluating reinforcment learning algorithms in a challenging enviroment such as slither.io. The enviroment has a reasonably large field with multiple snakes. snakes grow when eating randomly-appearing fruit a snake dies when colliding with another snake, itself, or the wall and the game ends when all snakes die.   
+`slither.io-v0` is an openAI [gym](https://gym.openai.com/) enviroment for testing and evaluating reinforcment learning algorithms in a popular classic snake game such as [slither.io](http://slither.io/). The enviroment has a reasonably large field with multiple snakes. snakes grow when eating randomly-appearing fruit a snake dies when colliding with another snake, itself, or the wall and the game ends when all snakes die.   
 
 Getting started
 ===============
@@ -17,8 +17,9 @@ Install Universe
 ~~~~~~~~~~~~~~~~
 To get started, first install ``slither.io-v0``:
 
+
 .. code:: shell
 
     https://github.com/BabakAkbari/Slither.io-AI.git
-    cd Slither.io-AI
-    pip install -e .
+    cd Slither.io-AI/
+    pip install -e gym-slitherio				
