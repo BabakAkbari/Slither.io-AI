@@ -28,3 +28,4 @@ export DISPLAY=:0
 vncserver :0
 ~~~~~~~~~~~~~~~~~~
 You will be asked to setup a password for your vnc enviroment. By default the password `secure` is hardcoded. You can change it whenever you want.
+<img src="http://s6.picofile.com/file/8389207684/Screenshot_from_2020_02_24_22_33_30.png" width="25%" />
