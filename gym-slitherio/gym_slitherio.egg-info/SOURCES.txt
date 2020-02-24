@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_slitherio.egg-info/PKG-INFO
+gym_slitherio.egg-info/SOURCES.txt
+gym_slitherio.egg-info/dependency_links.txt
+gym_slitherio.egg-info/requires.txt
+gym_slitherio.egg-info/top_level.txt
