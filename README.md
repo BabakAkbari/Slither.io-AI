@@ -10,15 +10,11 @@ Installation
 
 Supported systems
 ~~~~~~~~~~~~~~~~~
-
 We currently support Linux and OSX running Python 2.7 or 3.5.
-
 Install Universe
 ~~~~~~~~~~~~~~~~
+
 To get started, first install ``slither.io-v0``:
-
-
-.. code:: shell
 
     https://github.com/BabakAkbari/Slither.io-AI.git
     cd Slither.io-AI/
