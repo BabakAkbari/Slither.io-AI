@@ -10,24 +10,22 @@ Installation
 
 
 Supported systems
-~~~~~~~~~~~~~~~~~
 We currently support Linux and OSX running Python 2.7 or 3.5.
 Install Universe
-~~~~~~~~~~~~~~~~
 
 To get started, first install ``slither.io-v0``:
 
-=======
-Supported systems:
+<h3>Supported systems:</h3>
 We currently support Linux and OSX running Python 2.7 or 3.5.
 Install slither.io-v0
 To get started, first install ``slither.io-v0``:
-~~~~~~~~~~~~~~~~~
 
+~~~~~~~~~~~~~~~~~
     git clone https://github.com/BabakAkbari/Slither.io-AI.git
     cd Slither.io-AI/
     pip install -e gym-slitherio				
 ~~~~~~~~~~~~~~~~~~
+
 Now install the latest version of [docker](https://docs.docker.com/install/) and then:
 
 ~~~~~~~~~~~~~~~~~~
